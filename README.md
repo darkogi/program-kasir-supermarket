@@ -1,8 +1,12 @@
 # program-kasir-supermarket
 19.83.0383
-#Nama: oggy apriyansyah
+#Nama: oggy apriyansyah : ketua
 #Kelas: tekkom 01
 #NIM: 19.83.0383
+
+#Nama : sihab muzacky  : anggota
+#kelas : tekkom 01
+#Nim : 19.83.0400
 
 #LOGIN USERNAME: admin
 #PASSWORD : adminpass
